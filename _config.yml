@@ -1,1 +1,17 @@
+# Site settings
+title: "mendezcolmenares.github.io"
+description: "A minimal Jekyll theme for your GitHub Pages site."
 theme: jekyll-theme-minimal
+
+# Other possible settings you might want to include
+# You can add more settings as needed, but these are the basic ones to start
+
+# URL settings (Optional)
+url: "https://mendezcolmenares.github.io"
+baseurl: ""
+
+# Markdown settings
+markdown: kramdown
+
+# Permalink settings (Optional)
+permalink: pretty
