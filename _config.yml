@@ -1,12 +1,5 @@
-# Site settings
 theme: jekyll-theme-minimal
-
-# URL settings (Optional)
 url: "https://mendezcolmenares.github.io"
 baseurl: ""
-
-# Markdown settings
 markdown: kramdown
-
-# Permalink settings (Optional)
 permalink: pretty
