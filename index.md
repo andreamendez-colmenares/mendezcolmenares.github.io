@@ -3,10 +3,6 @@ layout: default
 title: "Home"
 ---
 
-<link rel="stylesheet" type="text/css" href="/styles.css">
-
-<div class="container">
-
 # Andrea Méndez Colmenares, MD, PhD
 
 ## About Me
@@ -37,9 +33,3 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 
 ### Horsetooth, Fort Collins, CO
 ![Horsetooth Reservoir](images/horsetooth.jpg)
-
-</div>
-
-<footer>
-    &copy; 2024 Andrea Méndez Colmenares
-</footer>
