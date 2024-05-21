@@ -1,11 +1,7 @@
 # Site settings
-title: ""
-description: ""
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minimal
 
-# URL settings
+# URL settings (Optional)
 url: "https://mendezcolmenares.github.io"
 baseurl: ""
 
@@ -14,6 +10,3 @@ markdown: kramdown
 
 # Permalink settings (Optional)
 permalink: pretty
-
-# Other possible settings
-show_downloads: false
