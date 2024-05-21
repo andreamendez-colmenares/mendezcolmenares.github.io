@@ -17,5 +17,5 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 - [The New York Times](https://www.nytimes.com/2021/07/14/well/move/exercise-walking-brain-memory.html)
 - [Colorado State University News](https://chhs.source.colostate.edu/aerobic-exercise-boosts-healthy-brain-aging-csu-study-finds/)
 
-## Guides
+## Research Guide for International Medical Graduates
 - [Research Tips Guide for IMGs](https://www.amwa-doc.org/wp-content/uploads/2024/01/AMWA-IMG-NMatch2024-Research-Tips-Guide_Jan2024.pdf)
