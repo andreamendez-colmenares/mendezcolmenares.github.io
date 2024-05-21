@@ -7,7 +7,7 @@ title: "Home"
 
 ## About Me
 
-I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neuroscience from Colorado State University, USA. My PhD research employed advanced MRI techniques and focused on the decline and plasticity of white matter in aging populations. Throughout my Ph.D., I developed expertise in structural neuroimaging, lifestyle factors affecting white matter health, cognitive assessments, and psychometrics. I have a track record of collaboration and leadership in academic settings both in Venezuela and the US. In the summer of 2024, I will be starting my neurology residency training. I hope to become a physician-scientist in the field of Alzheimer's and related dementias and continue advocating for underrepresented minorities in science and medicine. Please feel free to contact me if you have any questions.
+I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neuroscience from Colorado State University, USA. My PhD research employed advanced MRI techniques and focused on the decline and plasticity of white matter in aging populations. Throughout my Ph.D., I developed expertise in structural neuroimaging, lifestyle factors affecting white matter health, cognitive assessments, and psychometrics. I have a track record of collaboration and leadership in academic settings both in Venezuela and the US. In the summer of 2024, I will be starting my neurology residency training. I hope to become a physician-scientist in the field of Alzheimer's and related dementias and continue advocating for underrepresented minorities in science and medicine.
 
 ## Links
 
