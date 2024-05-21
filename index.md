@@ -32,12 +32,12 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 ## Gallery
 
 ### Climbing and Adventures
-![Climbing Adventure 1](images/117945389_10157827389258160_4602614036918591586_n.jpg)
-![Climbing Adventure 2](images/151286098_10158262819583160_9027816053398046166_n.jpg)
-![Ice Climbing](images/GGulJWEXkAALvnd.jpeg)
+![Climbing Adventure 1](/mendezcolmenares.github.io/images/117945389_10157827389258160_4602614036918591586_n.jpg)
+![Climbing Adventure 2](/mendezcolmenares.github.io/images/151286098_10158262819583160_9027816053398046166_n.jpg)
+![Ice Climbing](/mendezcolmenares.github.io/images/GGulJWEXkAALvnd.jpeg)
 
 ### Horsetooth, Fort Collins, CO, home of Colorado State University
-![Horsetooth Reservoir](images/horsetooth.jpg)
+![Horsetooth Reservoir](/mendezcolmenares.github.io/images/horsetooth.jpg)
 
 ## Contact Me
 
