@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 url: "https://andreamendez-colmenares.github.io"
-baseurl: "/mendezcolmenares.github.io"
+baseurl: ""
 markdown: kramdown
 permalink: pretty
 encoding: UTF-8
