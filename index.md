@@ -22,9 +22,9 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 
 ## My Research Q&A Guide for IMGs
 
-- [Research Tips Guide for IMGs](https://www.amwa-doc.org/wp-content/uploads/2024/01/AMWA-IMG-NMatch2024-Research-TTips-Guide_Jan2024.pdf)
+- [Research Tips Guide for IMGs](https://www.amwa-doc.org/wp-content/uploads/2024/01/AMWA-IMG-NMatch2024-Research-Tips-Guide_Jan2024.pdf)
 
-## Threads
+## Educational Threads
 
 - [Studying for the USMLE](https://x.com/andreamendez92/status/1792634919165808770)
 - [How to Conduct Meta-Analysis](https://x.com/andreamendez92/status/1776291408275554570)
