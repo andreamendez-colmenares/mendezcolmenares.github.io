@@ -1,6 +1,8 @@
+title: "Andrea Méndez Colmenares"
+description: ""
 theme: jekyll-theme-minimal
 url: "https://andreamendez-colmenares.github.io"
-baseurl: ""
+baseurl: "/mendezcolmenares.github.io"
 markdown: kramdown
 permalink: pretty
 encoding: UTF-8
