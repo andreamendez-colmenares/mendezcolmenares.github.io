@@ -18,6 +18,7 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 
 - [The New York Times](https://www.nytimes.com/2021/07/14/well/move/exercise-walking-brain-memory.html)
 - [Colorado State University News](https://chhs.source.colostate.edu/aerobic-exercise-boosts-healthy-brain-aging-csu-study-finds/)
+- [Hoy Por Ellos - My social project in Venezuela](https://global-gazette.worldlearning.org/2014/12/15/hoy-por-ellos-venezuela/)
 - [Global UGRAD Exchange Program (2013)](https://www.wyomingnews.com/laramieboomerang/news/venezuelan-student-plays-guitar-at-spring-wind/article_b99ddcec-91c9-552e-aac8-3b895906c2bc.html) _(Old but meaningful)_
 
 ## My Research Q&A Guide for IMGs
@@ -27,7 +28,7 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 ## Educational Threads
 
 - [Studying for the USMLE](https://x.com/andreamendez92/status/1792634919165808770)
-- [How to Conduct Meta-Analysis](https://x.com/andreamendez92/status/1776291408275554570)
+- [How to Conduct a Meta-Analysis](https://x.com/andreamendez92/status/1776291408275554570)
 
 ## Gallery
 
