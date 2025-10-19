@@ -7,7 +7,9 @@ title: "Home"
 
 ## About Me
 
-I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neuroscience from Colorado State University, USA. My PhD research employed advanced MRI techniques and focused on the decline and plasticity of white matter in aging populations. Throughout my Ph.D., I developed expertise in structural neuroimaging, lifestyle factors affecting white matter health, cognitive assessments, and psychometrics. I have a track record of collaboration and leadership in academic settings both in Venezuela and the US. In the summer of 2024, I will be starting my neurology residency training. I hope to become a physician-scientist in the field of Alzheimer's and related dementias and continue advocating for underrepresented minorities in science and medicine.
+I’m a medical doctor and scientist from Maracaibo, Venezuela. My Ph.D. in Cognitive Neuroscience at Colorado State University focused on how the brain’s white matter changes with aging, using advanced MRI techniques to study plasticity and decline. Through that work, I became interested in how lifestyle, health, and culture shape the biology of aging and resilience.
+
+I’m now a Neurology resident at Duke University, where my current research examines cognitive health and risk of dementia in older Latino adults. My long-term goal is to make dementia research and care more inclusive for everyone, including Spanish-speaking communities.
 
 ## Links
 
@@ -37,7 +39,7 @@ I’m a medical doctor from Maracaibo, Venezuela, with a Ph.D. in Cognitive Neur
 ![Climbing Adventure 2](images/151286098_10158262819583160_9027816053398046166_n.jpg)
 ![Ice Climbing](images/GGulJWEXkAALvnd.jpeg)
 
-### Horsetooth, Fort Collins, CO, home of Colorado State University
+### Horsetooth, Fort Collins, CO, home of Colorado State University (where I did my PhD)
 ![Horsetooth Reservoir](images/horsetooth.jpg)
 
 ## Contact Me
